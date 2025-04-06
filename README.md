@@ -69,7 +69,7 @@ YouTube API (Optional Video Solutions)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/code-forge.git
+   git clone https://github.com/vanshika7105/code-forge.git
    cd code-forge
    ```
 
