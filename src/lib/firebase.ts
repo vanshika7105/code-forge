@@ -7,13 +7,13 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBJYvTQ-SST32IHoOs3JE-fZk6VbsB5qH8",
-  authDomain: "my-ai-video-project-449619.firebaseapp.com",
-  projectId: "my-ai-video-project-449619",
-  storageBucket: "my-ai-video-project-449619.appspot.com",
-  messagingSenderId: "897701515044",
-  appId: "1:897701515044:web:350af8122b921d6c4f6db1",
-  measurementId: "G-8ZRF1XQYLM"
+  apiKey: " ",
+  authDomain: " ",
+  projectId: " ",
+  storageBucket: " ",
+  messagingSenderId: " ",
+  appId: " ",
+  measurementId: " "
 };
 
 // Initialize Firebase
